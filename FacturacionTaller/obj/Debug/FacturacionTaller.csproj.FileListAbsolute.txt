@@ -1,0 +1,6 @@
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\FacturacionTaller\bin\Debug\FacturacionTaller.dll
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\FacturacionTaller\bin\Debug\FacturacionTaller.pdb
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\FacturacionTaller\obj\Debug\FacturacionTaller.csproj.AssemblyReference.cache
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\FacturacionTaller\obj\Debug\FacturacionTaller.csproj.CoreCompileInputs.cache
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\FacturacionTaller\obj\Debug\FacturacionTaller.dll
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\FacturacionTaller\obj\Debug\FacturacionTaller.pdb

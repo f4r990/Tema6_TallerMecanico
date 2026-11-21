@@ -1,0 +1,10 @@
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\SistemaTaller\bin\Debug\SistemaTaller.exe.config
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\SistemaTaller\bin\Debug\SistemaTaller.exe
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\SistemaTaller\bin\Debug\SistemaTaller.pdb
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\SistemaTaller\bin\Debug\FacturacionTaller.dll
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\SistemaTaller\bin\Debug\FacturacionTaller.pdb
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\SistemaTaller\obj\Debug\SistemaTaller.csproj.AssemblyReference.cache
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\SistemaTaller\obj\Debug\SistemaTaller.csproj.CoreCompileInputs.cache
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\SistemaTaller\obj\Debug\SistemaT.49553097.Up2Date
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\SistemaTaller\obj\Debug\SistemaTaller.exe
+C:\Users\UCA40412\Downloads\Tema6_TallerMecanico\Tema6_TallerMecanico\SistemaTaller\obj\Debug\SistemaTaller.pdb
